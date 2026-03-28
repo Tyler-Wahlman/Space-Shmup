@@ -620,6 +620,9 @@ MonoBehaviour:
   - {fileID: 4355034669299261921, guid: 923a448ce3304444ab0205d300e63370, type: 3}
   - {fileID: 4355034669299261921, guid: 923a448ce3304444ab0205d300e63370, type: 3}
   - {fileID: 1148503701939821676, guid: c6bc33f777aa97f49ad38215cbaa09b8, type: 3}
+  - {fileID: 4355034669299261921, guid: 63573a372bcbe284fa28b59e0e4e6446, type: 3}
+  - {fileID: 4355034669299261921, guid: 63573a372bcbe284fa28b59e0e4e6446, type: 3}
+  - {fileID: 4355034669299261921, guid: 63573a372bcbe284fa28b59e0e4e6446, type: 3}
   enemySpawnPerSecond: 0.5
   enemyInsetDefault: 1.5
   gameRestartDelay: 2
